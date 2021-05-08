@@ -1,3 +1,8 @@
+
+# SOFTWARE HOMEWORK 2
+
+https://github.com/kminwook/-2
+
 ## git init 
 ```
 get init
