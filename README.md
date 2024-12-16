@@ -1,3 +1,6 @@
+HTML 연습
+git 명령어
+
 
 # SOFTWARE HOMEWORK 2
 
